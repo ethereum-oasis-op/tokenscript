@@ -54,6 +54,6 @@ List any constraints, assumptions, risks and dependencies.
  
 ## Governance
 
-The Governance Document is located [here](#).
+The Governance Document is located [here](./GOVERNANCE.md).
 
 **Approved by EEA Community Projects PGB , 25 July 2023**
