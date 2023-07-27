@@ -1,4 +1,20 @@
-                                 Apache License
+
+This Open Project operates under the license below. 
+OASIS invites anyone who knows of any IPR claims to disclose them if they 
+may be essential to the implementation of any of the work of this project 
+so that notice of them may be posted. 
+
+For information on any statements regarding IPR claims related to the work 
+of this project, see the 
+[OASIS OP IPR Statements](https://github.com/oasis-open-projects/administration/blob/master/IPR_STATEMENTS.md) 
+page.
+
+-------------------
+
+
+
+
+Apache License
                            Version 2.0, January 2004
                         http://www.apache.org/licenses/
 
@@ -199,3 +215,23 @@
    WITHOUT WARRANTIES OR CONDITIONS OF ANY KIND, either express or implied.
    See the License for the specific language governing permissions and
    limitations under the License.
+
+--------------------------------------------------------------------------
+
+**Non-Assertion Covenant for Standards Track Project Specifications**
+
+In addition to the above license, each Contributor also agrees in the CLA to provide the additional covenants as non-assertion covenants for any Project Specifications as explained in the OASIS Open Project Rules Section 15.3 and reproduced below:
+
+Contributor Covenant for Contributions. As a Contributor, you irrevocably covenant that you will not assert any patent claims licensable by you that are necessarily infringed by an implementation of your contribution to the extent that contribution is included in a Project Specification approved by the Open Project to which you made the contribution, against OASIS or any other parties who the Applicable License benefits, for making, having made, using, marketing, importing, offering to sell, selling, and otherwise distributing works that Implement or Derive From your contribution.
+
+PGB Covenant for Specifications. For any Project Repository whose Applicable License is an Implementer-Class License, if you (or your representative) are a member of that Open Project's Governing Board, you irrevocably covenant that you will not assert any patent claims licensable by you that are necessarily infringed by an implementation of a Project Specification approved by that Open Project, and any Maintenance Deliverable approved for it, against OASIS or any other parties who the Applicable License benefits, for making, having made, using, marketing, importing, offering to sell, selling, and otherwise distributing works that Implement or Derive From that Project Specification and are compliant with all normative portions thereof. If you withdraw from the PGB, then this obligation continues to apply, but only with respect to those Project Specification Drafts approved more than 7 calendar days prior to your withdrawal, and to any Maintenance Deliverables approved for those specifications thereafter.
+
+Scope of Implementations Benefited. As used in this covenant, works that "Implement or Derive From" a contribution or specification include:
+
+(a) specifications to the extent derived from code
+
+(b) independent code implementations of a specification
+
+(c) independent code implementations of a specification to the extent the specification is derived from code.
+
+For purposes of this definition, "specifications" include documentation, data flows, data formats, application programming interfaces and process descriptions.
