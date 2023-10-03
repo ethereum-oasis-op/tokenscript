@@ -118,6 +118,6 @@ This project is licensed under the Apache 2.0 license - see the [LICENSE.md](LIC
 
 ## Acknowledgments
 
-Add a Hat tip to anyone whose code was used or projects that inspire your work etc.
+Add a Hat tip to anyone whose code was used or projects that inspire your work.
 
 
